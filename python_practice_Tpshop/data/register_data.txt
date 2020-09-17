@@ -1,0 +1,2 @@
+number,verify_code,set_password,sure_password,referrer_phone_number,except_result,status
+13455555555,8888,1234567,1234567,,图像验证码错误,False

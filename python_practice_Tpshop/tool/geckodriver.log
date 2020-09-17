@@ -1,0 +1,45 @@
+1600240600565	geckodriver	INFO	Listening on 127.0.0.1:50519
+1600240603620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileTYp7SX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600240606882	Marionette	INFO	Listening on port 50527
+1600240606926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "style is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1049:7\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'domnode's method 'getAllSelectors'" "ele.ownerGlobal is null"
+console.error: "findCssSelector@resource://devtools/shared/inspector/css-logic.js:595:21\nfindAllCssSelectors@resource://devtools/shared/inspector/css-logic.js:688:23\ngetAllSelectors@resource://devtools/server/actors/inspector/node.js:587:12\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'inspector's method 'supportsHighlighters'" "doc.documentElement is null"
+console.error: "supportsHighlighters@resource://devtools/server/actors/inspector/inspector.js:350:16\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): style is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1049:7)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: (new Error("Protocol error (TypeError): ele.ownerGlobal is null from: server0.conn0.child2/domnode191 (resource://devtools/shared/inspector/css-logic.js:595:21)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: (new Error("Protocol error (TypeError): doc.documentElement is null from: server0.conn0.child2/inspectorActor3 (resource://devtools/server/actors/inspector/inspector.js:350:16)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "CssLogic.getComputedStyle(...) is null"
+console.error: "_nodeIsListItem@resource://devtools/server/actors/styles.js:739:30\n_pseudoIsRelevant@resource://devtools/server/actors/styles.js:754:21\n_getAllElementRules@resource://devtools/server/actors/styles.js:702:18\ngetApplied@resource://devtools/server/actors/styles.js:598:12\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): CssLogic.getComputedStyle(...) is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:739:30)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: (new Error("Protocol error (TypeError): CssLogic.getComputedStyle(...) is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:739:30)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: (new Error("Protocol error (TypeError): CssLogic.getComputedStyle(...) is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:739:30)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "Error writing response to: children"
+console.error: "Error while calling actor 'domwalker's method 'children'" "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"
+console.error: "getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22\ngetListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28\nhasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17\nhasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:800:21\nget _hasEventListeners@resource://devtools/server/actors/inspector/node.js:459:33\nform@resource://devtools/server/actors/inspector/node.js:262:7\nwrite@resource://devtools/shared/protocol/types.js:363:32\ntypes.addArrayType/write/<@resource://devtools/shared/protocol/types.js:220:33\nwrite@resource://devtools/shared/protocol/types.js:220:16\nwrite@resource://devtools/shared/protocol/types.js:268:39\nwrite@resource://devtools/shared/protocol/Response.js:102:22\nwrite@resource://devtools/shared/protocol/Response.js:47:28\nsendReturn@resource://devtools/shared/protocol/Actor.js:172:38\n"
+console.error: (new Error("Protocol error (NS_ERROR_ILLEGAL_VALUE): Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor] from: server0.conn0.child2/domwalker24 (resource://devtools/server/actors/inspector/event-collector.js:266:0)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1019:24\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1019:24)", "resource://devtools/shared/protocol/Front.js", 323))
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1600245702165	Marionette	INFO	Stopped listening on port 50527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600249108211	geckodriver	INFO	Listening on 127.0.0.1:51455
+1600249111253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilescr41C"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600249114297	Marionette	INFO	Listening on port 51463
+1600249114596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead

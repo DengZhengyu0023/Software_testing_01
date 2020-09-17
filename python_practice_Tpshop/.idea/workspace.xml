@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0263bf33-2cc7-4fe4-9975-8031ad39d285" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hK0yclNKFPbLXnQuJBMQJXjAKe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\python_practice_Tpshop\scripts" />
+      <recent name="F:\python_practice_Tpshop\base" />
+      <recent name="F:\python_practice_Tpshop\tool" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_order.TestOrder">
+    <configuration name="auto_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_practice_Tpshop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\python_practice_Tpshop\base\auto_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="auto_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_practice_Tpshop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tool" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\python_practice_Tpshop\base\auto_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_add_cart.TestAddCart" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python_practice_Tpshop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_add_cart.TestAddCart&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_order.TestOrder" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python_practice_Tpshop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_order.TestOrder&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_register.TestRegister" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python_practice_Tpshop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_register.TestRegister&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_order.TestOrder" />
+        <item itemvalue="Python tests.Unittests for test_add_cart.TestAddCart" />
+        <item itemvalue="Python.auto_login (1)" />
+        <item itemvalue="Python.auto_login" />
+        <item itemvalue="Python tests.Unittests for test_register.TestRegister" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0263bf33-2cc7-4fe4-9975-8031ad39d285" name="Default Changelist" comment="" />
+      <created>1599744731978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599744731978</updated>
+      <workItem from="1599744733368" duration="740000" />
+      <workItem from="1599823113431" duration="8732000" />
+      <workItem from="1599993146495" duration="11655000" />
+      <workItem from="1600073092018" duration="13149000" />
+      <workItem from="1600221200078" duration="620000" />
+      <workItem from="1600232150252" duration="24125000" />
+      <workItem from="1600324035771" duration="8530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="412" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600326875534">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="412" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1600326875534" />
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600074099572">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1600074099572" />
+    <state x="476" y="139" key="FileChooserDialogImpl" timestamp="1599745963540">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="476" y="139" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1599745963540" />
+    <state width="1322" height="107" key="GridCell.Tab.0.bottom" timestamp="1600331800098">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="107" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600331800098" />
+    <state width="1322" height="107" key="GridCell.Tab.0.center" timestamp="1600331800098">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="107" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1600331800098" />
+    <state width="1322" height="107" key="GridCell.Tab.0.left" timestamp="1600331800098">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="107" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1600331800098" />
+    <state width="1322" height="107" key="GridCell.Tab.0.right" timestamp="1600331800098">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="107" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1600331800098" />
+    <state width="1322" height="221" key="GridCell.Tab.1.bottom" timestamp="1600330561880">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600330561880" />
+    <state width="1322" height="221" key="GridCell.Tab.1.center" timestamp="1600330561880">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1600330561880" />
+    <state width="1322" height="221" key="GridCell.Tab.1.left" timestamp="1600330561879">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1600330561879" />
+    <state width="1322" height="221" key="GridCell.Tab.1.right" timestamp="1600330561880">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1600330561880" />
+    <state x="363" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1600324077281">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1600324077281" />
+    <state x="716" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1600327792105">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="716" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1600327792105" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_practice_Tpshop$get_data.coverage" NAME="get_data Coverage Results" MODIFIED="1600002643665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
+    <SUITE FILE_PATH="coverage/python_practice_Tpshop$Unittests_for_test_login_TestLogin.coverage" NAME="Unittests for test_login.TestLogin Coverage Results" MODIFIED="1600092721160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/python_practice_Tpshop$get_logger.coverage" NAME="get_logger Coverage Results" MODIFIED="1600074086673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
+    <SUITE FILE_PATH="coverage/python_practice_Tpshop$Unittests_for_test_login_TestLogin_test_login.coverage" NAME="Unittests for test_login.TestLogin.test_login Coverage Results" MODIFIED="1600086942583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/python_practice_Tpshop$Unittests_for_test_add_cart_TestAddCart.coverage" NAME="Unittests for test_add_cart.TestAddCart Coverage Results" MODIFIED="1600330047086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/python_practice_Tpshop$Unittests_for_test_order_TestOrder.coverage" NAME="Unittests for test_order.TestOrder Coverage Results" MODIFIED="1600331800080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/python_practice_Tpshop$Unittests_for_test_register_TestRegister.coverage" NAME="Unittests for test_register.TestRegister Coverage Results" MODIFIED="1600233666209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/python_practice_Tpshop$page.coverage" NAME="page Coverage Results" MODIFIED="1599828928943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/python_practice_Tpshop$auto_login__1_.coverage" NAME="auto_login (1) Coverage Results" MODIFIED="1600249107353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
+    <SUITE FILE_PATH="coverage/python_practice_Tpshop$get_driver.coverage" NAME="get_driver Coverage Results" MODIFIED="1599831086020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/python_practice_Tpshop$auto_login.coverage" NAME="auto_login Coverage Results" MODIFIED="1600240511427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+  </component>
+</project>
