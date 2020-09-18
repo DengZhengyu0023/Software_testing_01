@@ -8,11 +8,13 @@ from time import sleep
 from base.get_driver import GetDriver
 from page.page import Page
 from base.auto_login import AutoLogin
+from tool.get_logger import GetLogger
 
+# 获得日志器
+#log = GetLogger().get_logger()
 
 # TestAddCart类 继承unittest类
 class TestAddCart(unittest.TestCase):
-
     # 初始化
     @classmethod
     def setUpClass(cls):

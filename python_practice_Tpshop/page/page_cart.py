@@ -17,6 +17,7 @@ del_info_delete = By.CSS_SELECTOR, ".select-remove"
 # 去结算
 go_pay = By.PARTIAL_LINK_TEXT, "去结算"
 
+
 # PageCart类
 class PageCart(Base):
     # 判断 去购物 按钮是否存在

@@ -6,6 +6,7 @@ from page.page_cart import PageCart
 from page.page_fill_order_info import PageFillOrderInfo
 from page.page_goods import PageGoods
 from page.page_login import PageLogin
+from page.page_order_pay import PageOrderPay
 from page.page_pay import PagePay
 from page.page_register import PageRegister
 from page.page_my_shop import PageMyShop
@@ -50,3 +51,7 @@ class Page:
     @property
     def page_pay(self):
         return PagePay(self.driver)
+
+    @property
+    def page_order_pay(self):
+        return PageOrderPay(self.driver)
