@@ -34,8 +34,9 @@ class TestLogin:
         # 点击 登录 按钮
         self.page_login.page_login.page_login_click_login()
 
+        # 判断登录是否正确
         if toast is None:
-            # 判断登录是否正确
+            # 断言
             assert self.page_login.page_my.page_my_get_nick_name() == "itheima_test", "登录后的用户名与输入的用户名不一致"
         else:
             assert self.page_login.page_login.base_is_toast_exist(toast)
